@@ -4,10 +4,6 @@
 
 - 📜 Code snippets live in [Gists][gists]
 
-- 🔐 GPG Key IDs for signing commits:
-  - 09D60BDAEA3B8634 (carry-on)
-  - A59F54B8ED0C57D7 (at-home)
-
 - 📫 Reach me at [peace-ducted.0z@icloud.com][email] or [LinkedIn][linkedin]
 
 ## Skills
