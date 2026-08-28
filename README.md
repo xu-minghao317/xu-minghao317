@@ -8,25 +8,32 @@
 
 ## Skills
 
-### Programming Languages
+### Languages
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Cbash%2Cjs%2Cts%2Ckotlin&amp;theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py%2Cbash%2Cjs%2Cts%2Ckotlin&amp;theme=light" />
-  <img height="50" src="https://skillicons.dev/icons?i=py%2Cbash%2Cjs%2Cts%2Ckotlin&amp;theme=light" alt="Python, Bash, JavaScript, TypeScript, Kotlin" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=go%2Cruby%2Cts%2Cpy%2Cbash&amp;theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=go%2Cruby%2Cts%2Cpy%2Cbash&amp;theme=light" />
+  <img height="50" src="https://skillicons.dev/icons?i=go%2Cruby%2Cts%2Cpy%2Cbash&amp;theme=light" alt="Go, Ruby, TypeScript, Python, Bash" />
 </picture>
 
-### Web & Mobile Development
+### Backend & Frontend
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html%2Ccss%2Ctailwind%2Creact%2Cnodejs%2Cexpress%2Candroidstudio&amp;theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html%2Ccss%2Ctailwind%2Creact%2Cnodejs%2Cexpress%2Candroidstudio&amp;theme=light" />
-  <img height="50" src="https://skillicons.dev/icons?i=html%2Ccss%2Ctailwind%2Creact%2Cnodejs%2Cexpress%2Candroidstudio&amp;theme=light" alt="HTML, CSS, Tailwind, React, Node.js, Express, Android Studio" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=rails%2Creact%2Cvite&amp;theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=rails%2Creact%2Cvite&amp;theme=light" />
+  <img height="50" src="https://skillicons.dev/icons?i=rails%2Creact%2Cvite&amp;theme=light" alt="Ruby on Rails, React, Vite" />
 </picture>
 
-### DevOps & Infrastructure
+### Data & Search
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws%2Cgcp%2Cdocker%2Cgit%2Clinux&amp;theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=aws%2Cgcp%2Cdocker%2Cgit%2Clinux&amp;theme=light" />
-  <img height="50" src="https://skillicons.dev/icons?i=aws%2Cgcp%2Cdocker%2Cgit%2Clinux&amp;theme=light" alt="AWS, GCP, Docker, Git, Linux" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql%2Celasticsearch%2Credis&amp;theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=mysql%2Celasticsearch%2Credis&amp;theme=light" />
+  <img height="50" src="https://skillicons.dev/icons?i=mysql%2Celasticsearch%2Credis&amp;theme=light" alt="MySQL, Elasticsearch / OpenSearch, Redis" />
+</picture>
+
+### Infrastructure & DevOps
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=kubernetes%2Cdocker%2Caws%2Cgcp%2Cgithubactions&amp;theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=kubernetes%2Cdocker%2Caws%2Cgcp%2Cgithubactions&amp;theme=light" />
+  <img height="50" src="https://skillicons.dev/icons?i=kubernetes%2Cdocker%2Caws%2Cgcp%2Cgithubactions&amp;theme=light" alt="Kubernetes, Docker, AWS, Google Cloud, GitHub Actions" />
 </picture>
 
 [gists]: https://gist.github.com/ming-hao-xu
