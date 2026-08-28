@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Minghao Xu (みんみん)
 
+- 🔭 Currently building workflow & approval-flow infrastructure at [freee][freee]
+
 - 🗣️ Speak `en` (business), `ja` (business), `zh` (native)
 
 - 📜 Code snippets live in [Gists][gists]
@@ -36,6 +38,7 @@
   <img height="50" src="https://skillicons.dev/icons?i=kubernetes%2Cdocker%2Caws%2Cgcp%2Cgithubactions&amp;theme=light" alt="Kubernetes, Docker, AWS, Google Cloud, GitHub Actions" />
 </picture>
 
+[freee]: https://corp.freee.co.jp/en/
 [gists]: https://gist.github.com/ming-hao-xu
 [email]: mailto:peace-ducted.0z@icloud.com
 [linkedin]: https://linkedin.com/in/xu-minghao
